@@ -24,8 +24,7 @@ A modern college discovery platform built using Next.js, TypeScript and Tailwind
 ## Deployment
 
 Live Demo:
-https://college-discovery-platform-5m8a7lpi9-dixdev1621s-projects.vercel.app/
-
+https://college-discovery-platform-rho-neon.vercel.app
 ## GitHub Repository
 
 https://github.com/DixDev1621/college-discovery-platform
